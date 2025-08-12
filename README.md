@@ -1,2 +1,4 @@
-Sample git repo
-hai
+# I am Amith 
+
+![Amith](amith.jpg)
+i
